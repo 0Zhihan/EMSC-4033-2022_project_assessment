@@ -4,7 +4,7 @@
 
 ## Executive summary
 
-There is a research on kinematic status of glaciers is in my project. Thus I need to develop a data processing method to explore how the factors affecting the kinematic state of the glacier function. The first step is to obtain the necessary data from the paper. There are some experiments(Zoet et al.(2013)) designed with some special devices to simulate the slip processes of glaciers to obtain data of friction coefficient as some variables like temperature of bedrock or percentage of debris glaciers carrying change. There are some theoretical derivations and formulas to describe the sliding law of glaciers as well.
+There is a research on kinematic status of glaciers is in my project. Thus I need to develop a data processing method to explore how the factors affecting the kinematic state of the glacier. The first step is to obtain the necessary data from the paper. There are some experiments(Zoet et al.(2013)) designed with some special devices to simulate the slip processes of glaciers to obtain data of friction coefficient as some variables like temperature of bedrock or percentage of debris glaciers carrying change. There are some theoretical derivations and formulas to describe the sliding law of glaciers as well.
 
 In this case, I could fit the data with some functions to explore how these variables affect the coefficient of friction. I could obtain theoretical values of slip velocity of glaciers by formulas and compare them with actual data to verify the accuracy of the formulas as well. The specific methods used are linear fitting, neural network and multiple linear regression.
 
