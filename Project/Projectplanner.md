@@ -44,6 +44,6 @@ I plan to finish this programming project in three weeks. During the first week,
 
 ## Testing, validation, documentation
 
-I will test the accuracy of the fitted relationship with r2 with package `scikit-learn` in a linear fit. I will fit the data with a neural network to test the relationships fitted by the OLS model. 
+I will test the accuracy of the fitted relationship with r2 with package `scikit-learn` in linear fit and OLS model. I will fit the data with a neural network to test the relationships fitted by the OLS model. 
 
 In `test_function.py`, I will write some test functions to test the functions I wrote in `my_functions.py` and execute these tests in `Run_test.ipynb`.
