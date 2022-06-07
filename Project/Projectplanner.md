@@ -6,7 +6,7 @@
 
 There is a research on kinematic status of glaciers is in my project. Thus I need to develop a data processing method to explore how the factors affecting the kinematic state of the glacier. The first step is to obtain the necessary data from the paper. There are some experiments(Zoet et al.(2013)) designed with some special devices to simulate the slip processes of glaciers to obtain data of friction coefficient as some variables like temperature of base of glaciers or percentage of debris glaciers carrying change. There are some theoretical derivations and formulas to describe the sliding law of glaciers as well.
 
-In this case, I could fit the data with some functions to explore how these variables affect the coefficient of friction. I could obtain theoretical values of slip velocity of glaciers by formulas and compare them with actual data to verify the accuracy of the formulas as well. The specific methods used are linear fitting, neural network and multiple linear regression.
+In this case, I could fit the data with some functions to explore how these variables affect the friction coefficient. I could obtain theoretical values of slip velocity of glaciers by formulas and compare them with actual data to verify the accuracy of the formulas as well. The specific methods used are linear fitting, neural network and multiple linear regression.
 
 The specific outcomes will include some fitting formulas, some plots illustrating the relationships, tests of the accuracy of these formulas and calculated values and some test functions.
 
@@ -44,6 +44,6 @@ I plan to finish this programming project in three weeks. During the first week,
 
 ## Testing, validation, documentation
 
-I will test the accuracy of the fitted relationship with r2 with package `scikit-learn` in linear fit and OLS model. I will fit the data with a neural network to test the relationships fitted by the OLS model. 
+I will test the accuracy of the fitted relationship with r2 with package `scikit-learn` in linear fit and OLS model. I will fit the data with a neural network to test the relationships fitted by the OLS model. I will control the error in multipul linear regression by lots of iterations.
 
 In `test_function.py`, I will write some test functions to test the functions I wrote in `my_functions.py` and execute these tests in `Run_test.ipynb`.
